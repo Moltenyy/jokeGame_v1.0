@@ -1,0 +1,20 @@
+TEXT_MONEY     = "ПАРИ";
+TEXT_PLAY      = "ИГРАЙ!";
+TEXT_BET       = "Бет";
+TEXT_COIN      = "МОНЕТА";
+TEXT_MAX_BET   = "МАКС. БЕТ";
+TEXT_INFO      = "ИНФО";
+TEXT_LINES     = "Линии";
+TEXT_SPIN      = "ЗАВЪРТИ";
+TEXT_WIN       = "";
+TEXT_HELP_WILD = "Това е специален символ, който замества всички!";
+TEXT_CREDITS_DEVELOPED = "DEVELOPED BY";
+TEXT_CURRENCY = " лв.";
+TEXT_PRELOADER_CONTINUE = "Започни";
+
+TEXT_SHARE_IMAGE = "200x200.jpg";
+TEXT_SHARE_TITLE = "Честито!";
+TEXT_SHARE_MSG1 = "Ти спечели <strong>";
+TEXT_SHARE_MSG2 = " точки</strong>!<br><br>Сподели с приятел!";
+TEXT_SHARE_SHARE1 = "Твоят резултат е ";
+TEXT_SHARE_SHARE2 = " точки! Можеш ли по-добре?";
